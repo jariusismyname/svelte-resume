@@ -1,4 +1,4 @@
-<!-- <!-- <script>
+<!-- <!-- <!-- <script>
   export let name = "Your Name";
   export let profileImage = "profile.jpg"; // Make sure this path is correct
 </script> -->
@@ -69,4 +69,4 @@
       padding: 0 1rem;
     }
   }
-</style> 
+</style>  -->
