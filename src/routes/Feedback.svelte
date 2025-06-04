@@ -46,7 +46,7 @@
         Email:
         <input type="email" bind:value={email} placeholder="Your email" />
 
-      <label for="feedback">Your Feedback:</label>
+      <!-- <label for="feedback">Your Feedback:</label>
 
         <div class="stars">
         {#each Array(maxStars) as _, i}
@@ -60,8 +60,8 @@
 
 
         </div>
-      </label>
-
+      </label> -->
+<div></div>
       <label>
         Your Feedback:
 <textarea id="feedback" bind:value={feedback} placeholder="Tell us what you think..."></textarea>

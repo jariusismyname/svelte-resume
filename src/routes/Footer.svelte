@@ -1,6 +1,6 @@
 <footer class="footer">
   <div class="footer-content">
-    <p>© 2025 MyApp. All rights reserved.</p>
+    <p>© 2025 Jarius. All rights reserved.</p>
     <nav>
       <a href="/privacy">Privacy Policy</a> | 
       <a href="/terms">Terms of Service</a> | 
@@ -18,7 +18,7 @@
     position: relative;
     bottom: 0;
     width: 100%;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
   }
 
   .footer-content {

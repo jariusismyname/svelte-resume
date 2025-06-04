@@ -4,7 +4,7 @@
 </script> -->
 
 <section class="intro">
-  <div class="left">
+  <div >
     <!-- <img src={profileImage} alt="{name}'s photo" class="profile-pic" /> -->
   </div>
 

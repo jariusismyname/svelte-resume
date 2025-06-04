@@ -33,7 +33,6 @@
     {/each}
   </div>
 </section>
-
 <style>
   .experience-section {
     background-color: white;
@@ -85,9 +84,21 @@
     color: #666;
   }
 
+  @media (max-width: 768px) {
+    .experience-section {
+      padding: 2rem;
+    }
+  }
+
   @media (max-width: 600px) {
     .experience-item {
       text-align: center;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .experience-section {
+      padding: 1.5rem 1rem;
     }
   }
 </style>

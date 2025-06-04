@@ -2,15 +2,15 @@
   export let education = [
     {
       degree: "Bachelor of Science in Computer Engineering",
-      institution: "ABC University",
+      institution: "University of Rizal System - Antipolo Campus",
       year: "2021 - 2025",
       description: "Focused on embedded systems, robotics, and software development."
     },
     {
-      degree: "High School Diploma",
-      institution: "XYZ High School",
-      year: "2017 - 2021",
-      description: "Graduated with honors and a focus on STEM subjects."
+      degree: "NATIONAL CERTIFICATE II in Computer System Servicing",
+      institution: "TESDA",
+      year: "2025",
+      description: "Completed training in computer hardware servicing, including installation, configuration, and troubleshooting of computer systems."
     }
   ];
 </script>
@@ -30,11 +30,21 @@
 
 <style>
   .education-section {
-    background-color: #white;
+    background-color: white;
     padding: 3rem 9rem;
     text-align: left;
   }
+@media (max-width: 768px) {
+  .education-section {
+    padding: 2rem;
+  }
+}
 
+@media (max-width: 480px) {
+  .education-section {
+    padding: 1.5rem 1rem;
+  }
+}
   .education-section h2 {
     font-size: 2rem;
     margin-bottom: 2rem;

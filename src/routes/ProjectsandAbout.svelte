@@ -11,7 +11,7 @@
       title: "Portfolio Website",
       description: "Built using wordpress to showcase my skills and projects.",
       image: "/images/portfolio.png",
-      link: "https://yourwebsite.com"
+      link: "https://engrjmportfolio.wordpress.com"
     }
   ];
 </script>
@@ -27,7 +27,15 @@
     <p>
       Outside of tech, I enjoy learning new skills, exploring open-source, and sharing ideas with the community.
     </p>
+
+    
+  <h2>📞 Contact</h2>
+  <div class="contact-details">
+    <p><strong>Phone:</strong> 0976 597 4874</p>
+    <p><strong>Email:</strong> <a href="mailto:jrsmglctpngbllstrs@gmail.com">jrsmglctpngbllstrs@gmail.com</a></p>
   </div>
+  </div>
+
 
   <div class="right-column">
     <h2>🚀 Projects</h2>
@@ -45,6 +53,40 @@
 </section>
 
 <style>
+  .contact-section {
+  padding: 2rem;
+  background-color: #f9f9f9;
+  text-align: center;
+  border-top: 1px solid #eee;
+}
+
+.contact-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.contact-details p {
+  font-size: 1.1rem;
+  color: #555;
+  margin: 0.5rem 0;
+}
+
+.contact-details a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.contact-details a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .contact-section {
+    padding: 1.5rem 1rem;
+  }
+}
+
   .main-container {
     display: flex;
     flex-wrap: wrap;

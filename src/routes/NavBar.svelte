@@ -31,14 +31,14 @@
 <body>
 
   <nav class="navbar">
-    <div class="logo">MyApp</div>
+    <div class="logo">Resume</div>
     <button class="menu-toggle">☰</button>
     <ul>
-      <li><a href="/" style="color:white;">Home</a></li>
+      <!-- <li><a href="/" style="color:white;">Home</a></li>
       <li><a href="/about" style="color:white;">About</a></li>
       <li><a href="/services" style="color:white;">Services</a></li>
       <li><a href="/contact" style="color:white;">Contact</a></li>
-    </ul>
+    </ul> -->
   </nav>
 </body>
 </html>
