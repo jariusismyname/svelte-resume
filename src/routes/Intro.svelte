@@ -23,7 +23,7 @@
     </p>
   </div>
 </section>
-
+.
 <style>
   .intro {
     display: flex;
@@ -77,4 +77,4 @@
       padding: 0 1rem;
     }
   }
-</style> 
+</style>
