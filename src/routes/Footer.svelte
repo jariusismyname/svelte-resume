@@ -17,7 +17,7 @@
     padding: 1rem 2rem;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width:auto;
     font-size: 1.2rem;
   }
 

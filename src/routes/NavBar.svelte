@@ -32,7 +32,7 @@
 
   <nav class="navbar">
     <div class="logo">Resume</div>
-    <button class="menu-toggle">☰</button>
+    <!-- <button class="menu-toggle">☰</button> -->
     <ul>
       <!-- <li><a href="/" style="color:white;">Home</a></li>
       <li><a href="/about" style="color:white;">About</a></li>

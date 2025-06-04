@@ -23,7 +23,7 @@
   const maxStars = 5;
 </script>
 
-<h1 class="testimonial-title">Testimonial</h1>
+<h1 class="testimonial-title">💬 Testimonials</h1>
 
 <section class="testimonial-section">
   {#each testimonials as t}
@@ -50,6 +50,21 @@
     text-align: left;
     font-weight: 700;
     color: #333;
+    font-size: 2rem;
+    line-height: 1.3;
+  }
+
+  @media (max-width: 768px) {
+    .testimonial-title {
+      font-size: 1.5rem;
+      text-align: center;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .testimonial-title {
+      font-size: 1.3rem;
+    }
   }
 
   .testimonial-section {
@@ -64,13 +79,19 @@
   .testimonial-card {
     background: white;
     border-radius: 10px;
-    box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     width: 280px;
     padding: 1.5rem;
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .testimonial-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
   }
 
   .testimonial-card img {
@@ -99,7 +120,7 @@
   }
 
   .star.filled {
-    color: #ffc107; /* gold */
+    color: #ffc107;
   }
 
   .testimonial-card p {
