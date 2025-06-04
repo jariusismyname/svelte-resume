@@ -31,7 +31,7 @@
 <body>
 
   <nav class="navbar">
-    <div class="logo">MyApp</div>
+    <div class="logo">Resume</div>
     <button class="menu-toggle">☰</button>
     <ul>
       <li><a href="/" style="color:white;">Home</a></li>

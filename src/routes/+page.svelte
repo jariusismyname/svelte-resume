@@ -4,7 +4,6 @@
     import ProjectsAndAbout from './ProjectsandAbout.svelte';
   import Skills from './Skills.svelte';
     import WorkExperienceSection from './WorkExperienceSection.svelte';
-
     import Education from './Education.svelte';
 
   import TestimonialSection from './TestimonialSection.svelte';

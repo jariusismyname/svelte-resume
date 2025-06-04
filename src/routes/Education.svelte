@@ -2,15 +2,15 @@
   export let education = [
     {
       degree: "Bachelor of Science in Computer Engineering",
-      institution: "ABC University",
+      institution: "University of Rizal System - Antipolo Campus",
       year: "2021 - 2025",
       description: "Focused on embedded systems, robotics, and software development."
     },
     {
-      degree: "High School Diploma",
-      institution: "XYZ High School",
-      year: "2017 - 2021",
-      description: "Graduated with honors and a focus on STEM subjects."
+      degree: "National Certificate II in Computer System Servicing",
+      institution: "TESDA",
+      year: "2025",
+      description: "Completed a comprehensive program in computer system servicing, including hardware and software troubleshooting."
     }
   ];
 </script>

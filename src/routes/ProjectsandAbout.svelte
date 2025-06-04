@@ -11,7 +11,7 @@
       title: "Portfolio Website",
       description: "Built using wordpress to showcase my skills and projects.",
       image: "/images/portfolio.png",
-      link: "https://yourwebsite.com"
+      link: "https://engrjmportfolio.wordpress.com"
     }
   ];
 </script>

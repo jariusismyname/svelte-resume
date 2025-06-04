@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   export let experiences = [
     {
       role: "MSSQL Scripting",
@@ -90,4 +90,4 @@
       text-align: center;
     }
   }
-</style>
+</style> -->

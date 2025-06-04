@@ -1,29 +1,29 @@
 <script>
   export let testimonials = [
     {
-      name: "Alice Johnson",
-      photo: "https://randomuser.me/api/portraits/women/68.jpg",
+      name: "Microsoft Power BI Reporter",
+      photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532",
       rating: 5,
-      text: "This service was amazing! Highly recommend to everyone."
+      text: "Developed responsive web applications using Svelte, integrated REST APIs, and collaborated with UX designers to improve user experience."
     },
     {
-      name: "Mark Smith",
-      photo: "https://randomuser.me/api/portraits/men/45.jpg",
-      rating: 4,
-      text: "Very good experience, will definitely come back."
+      name: "MSSQL Scripting",
+      photo: "https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq-768x768.png",
+      rating: 5,
+      text: "Developed responsive web applications using Svelte, integrated REST APIs, and collaborated with UX designers to improve user experience."
     },
     {
-      name: "Emily Davis",
-      photo: "https://randomuser.me/api/portraits/women/24.jpg",
+      name: "Intern Software Engineer",
+      photo: "https://a0.anyrgb.com/pngimg/1834/10/source-code-cascading-style-sheets-firm-programmer-software-developer-computer-programming-html-web-development-directory-icon-design.png",
       rating: 5,
-      text: "Absolutely loved it, stars for the quality!"
+      text: "Assisted in building internal tools using JavaScript and Node.js, fixed bugs, and wrote unit tests for critical components."
     }
   ];
 
   const maxStars = 5;
 </script>
 
-<h1 class="testimonial-title">Testimonial</h1>
+<h1 class="testimonial-title">Experiences</h1>
 
 <section class="testimonial-section">
   {#each testimonials as t}

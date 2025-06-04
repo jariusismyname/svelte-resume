@@ -1,13 +1,12 @@
-<!-- <!-- <script>
+<script>
   export let name = "Your Name";
   export let profileImage = "profile.jpg"; // Make sure this path is correct
-</script> -->
+</script>
 
 <section class="intro">
   <div class="left">
-    <!-- <img src={profileImage} alt="{name}'s photo" class="profile-pic" /> -->
+    <img src={profileImage} alt="{name}'s photo" class="profile-pic" />
   </div>
-
   <div class="right">
     <!-- <h1>Hi, I'm {name} </h1> -->
     <p>
