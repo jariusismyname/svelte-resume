@@ -1,15 +1,15 @@
-<script>
+<!-- <!-- <script>
   export let name = "Your Name";
   export let profileImage = "profile.jpg"; // Make sure this path is correct
-</script>
+</script> -->
 
 <section class="intro">
   <div class="left">
-    <img src={profileImage} alt="{name}'s photo" class="profile-pic" />
+    <!-- <img src={profileImage} alt="{name}'s photo" class="profile-pic" /> -->
   </div>
 
   <div class="right">
-    <h1>Hi, I'm {name} </h1>
+    <!-- <h1>Hi, I'm {name} </h1> -->
     <p>
       I'm a passionate Computer Engineering student with a focus on software development,
       embedded systems, and real-world problem-solving.
@@ -77,4 +77,4 @@
       padding: 0 1rem;
     }
   }
-</style>
+</style> -->

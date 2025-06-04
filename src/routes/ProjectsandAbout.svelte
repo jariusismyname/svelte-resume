@@ -2,14 +2,14 @@
   // Sample project data
   let projects = [
     {
-      title: "Smart Home Automation",
-      description: "A system using Arduino and sensors to automate home devices.",
-      image: "/images/home-automation.jpg",
+      title: "Flashcard App",
+      description: "A web app to create and study flashcards, built with Svelte and Firebase.",
+      image: "/images/flashcard.jpg",
       link: "https://github.com/yourusername/smart-home"
     },
     {
       title: "Portfolio Website",
-      description: "Built using Svelte to showcase my skills and projects.",
+      description: "Built using wordpress to showcase my skills and projects.",
       image: "/images/portfolio.png",
       link: "https://yourwebsite.com"
     }

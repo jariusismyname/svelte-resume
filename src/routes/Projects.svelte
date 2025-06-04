@@ -8,10 +8,11 @@
     },
     {
       title: "Portfolio Website",
-      description: "My personal web portfolio built using Svelte, showcasing my projects and skills.",
+      description: "My personal web portfolio built using wordpress, showcasing my projects and skills.",
       image: "/images/portfolio.png",
       link: "https://yourwebsite.com"
     },
+    
     {
       title: "RC Car Controlled via Web App",
       description: "An RC car project using Wi-Fi control, live sensor feedback, and a custom-built dashboard.",

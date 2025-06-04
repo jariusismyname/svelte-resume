@@ -58,7 +58,7 @@
     gap: 2rem;
     justify-content: center;
     padding: 2rem;
-    background: #white;
+    background: white;
   }
 
   .testimonial-card {
