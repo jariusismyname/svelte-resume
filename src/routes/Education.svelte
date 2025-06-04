@@ -30,7 +30,7 @@
 
 <style>
   .education-section {
-    background-color: #white;
+    background-color: white;
     padding: 3rem 9rem;
     text-align: left;
   }

@@ -56,7 +56,7 @@ html, body {
 
   .navbar {
   position: fixed; /* or fixed if you want sticky */
-  background-color: #black;
+  background-color: black;
   color: white;
   width: 100%;         /* full viewport width */
   margin: 0;           /* no auto-centering */
