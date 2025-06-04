@@ -1,6 +1,6 @@
 <script>
   import NavBar from './NavBar.svelte';
-  import Intro from './Intro.svelte';
+  // import Intro from './Intro.svelte';
     import ProjectsAndAbout from './ProjectsandAbout.svelte';
   import Skills from './Skills.svelte';
     import WorkExperienceSection from './WorkExperienceSection.svelte';
@@ -13,7 +13,7 @@
 </script>
 
 <NavBar />
-<Intro name="Jarius Miguel Ballesteros" profileImage="/images/profile.png" />
+<!-- <Intro name="Jarius Miguel Ballesteros" profileImage="/images/profile.png" /> -->
 <!--<Projects></Projects>-->
 <ProjectsAndAbout />
 <Skills />
