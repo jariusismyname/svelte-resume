@@ -13,7 +13,7 @@
 </script>
 
 <NavBar />
-<!-- <Intro name="Jarius Miguel Ballesteros" profileImage="/images/profile.png" /> -->
+<Intro name="Jarius Miguel Ballesteros" profileImage="/images/profile.png" />
 <!--<Projects></Projects>-->
 <ProjectsAndAbout />
 <Skills />
