@@ -101,7 +101,7 @@ html, body {
       position: absolute;
       top: 0;
       right: 0;
-      background-color: #black;
+      background-color: black;
       padding: 1rem;
     }
 
