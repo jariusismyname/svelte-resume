@@ -31,7 +31,7 @@
 <body>
 
   <nav class="navbar">
-    <div class="logo">Resume</div>
+    <div class="logo">Resume V1.0</div>
     <!-- <button class="menu-toggle">☰</button> -->
     <ul>
       <!-- <li><a href="/" style="color:white;">Home</a></li>
