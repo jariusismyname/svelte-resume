@@ -3,26 +3,7 @@
   export let profileImage = "profile.jpg"; // Make sure this path is correct
 </script> -->
 
-<section class="intro">
-  <div >
-    <!-- <img src={profileImage} alt="{name}'s photo" class="profile-pic" /> -->
-  </div>
 
-  <div class="right">
-    <!-- <h1>Hi, I'm {name} </h1> -->
-    <p>
-      I'm a passionate Computer Engineering student with a focus on software development,
-      embedded systems, and real-world problem-solving.
-    </p>
-    <p>
-      This portfolio showcases my projects, experiments, and everything in between — from
-      full-stack web apps to robotics and IoT systems.
-    </p>
-    <p>
-      Feel free to explore and reach out if you'd like to collaborate or chat tech!
-    </p>
-  </div>
-</section>
 .
 <style>
   .intro {
